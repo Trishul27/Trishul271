@@ -1,0 +1,15 @@
+{
+  "name": "trishul-intro",
+  "version": "1.0.0",
+  "description": "introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Trishul27"
+  },
+  "author": "Trishul",
+  "license": "ISC"
+}
